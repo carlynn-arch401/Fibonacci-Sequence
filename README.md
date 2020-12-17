@@ -1,6 +1,6 @@
 
 
-<body style= "background-image: url('Fibonacci-Sequence/golden-ratio.jpg');">
+<body style= "background-image: url('golden-ratio.jpg');">
 <h1 style="color: ivory; text-align: center;"> The Fibonacci Sequence </h1>
 
 <script type="text/javascript">
