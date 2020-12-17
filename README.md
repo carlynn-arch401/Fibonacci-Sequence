@@ -4,7 +4,6 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	<link rel="style.css"/>
-<title> The Fibonacci Sequence </title>
 </head>
 <body style= "background-image: url('golden-ratio-spiral-2.jpg');">
 <h1 style="color: ivory; text-align: center;"> The Fibonacci Sequence </h1>
